@@ -1,0 +1,86 @@
+{
+  "item": "Plastic Container",
+  "crafts": [
+    {
+      "name": "Plant Pot",
+      "difficulty": "Medium",
+      "time_minutes": 25,
+      "materials": [
+        "Plastic Container",
+        "Soil",
+        "Seeds/small plant",
+        "Water",
+        "Paint and decorations (optional)",
+        "Small pebbles"
+      ],
+      "instructions": [
+        "Remove stickers from the container by scraping them off or using hot water",
+        "Clean and dry the container to remove any residue",
+        "Paint and decorate the outer surface of the container if desired",
+        "Place small pebbles at the bottom of the container for drainage",
+        "Pour a thick layer of soil over the pebbles",
+        "Plant seeds into the soil or place a small plant into the soil",
+        "Water the plant regularly"
+      ],
+      "sustainability_note": "The plastic container is durable, lightweight, and easy to handle, making it suitable for reuse as a plant pot.",
+      "environmental_benefits": [
+        "Reuses a plastic container",
+        "Prevents harmful chemicals from leaking into the environment",
+        "Encourages gardening, which benefits the environment",
+        "Creates a small indoor air-purifying plant space"
+      ],
+      "image": null
+    },
+    {
+      "name": "Mini Storage Box",
+      "difficulty": "Easy",
+      "time_minutes": 20,
+      "materials": [
+        "Plastic Container",
+        "Paint",
+        "Decorative items (ribbons, stickers, gems, etc.)"
+      ],
+      "instructions": [
+        "Remove stickers from the container by scraping them off or using hot water",
+        "Clean and dry the container to remove any residue",
+        "Paint the outer surface of the container",
+        "Decorate with ribbons, stickers, gems, or other decorative items if desired",
+        "Paint and decorate the inside if desired",
+        "Your mini storage box is complete and ready to hold items!"
+      ],
+      "sustainability_note": "The lightweight and durable container is suitable for creating an easy-to-use portable storage box.",
+      "environmental_benefits": [
+        "Reuses a plastic container",
+        "Prevents chemicals from damaging the environment",
+        "Creates a useful storage solution",
+        "Promotes responsible consumption"
+      ],
+      "image": null
+    },
+    {
+      "name": "Stationery Holder",
+      "difficulty": "Easy",
+      "time_minutes": 20,
+      "materials": [
+        "Plastic Container (preferably a taller one)",
+        "Paint",
+        "Decorations (ribbons, stickers, gems, etc.)"
+      ],
+      "instructions": [
+        "Remove stickers from the container by scraping them off or using hot water",
+        "Clean and dry the container to remove any residue",
+        "Paint the outer surface of the container",
+        "Decorate with stickers, ribbons, gems, or other decorations if desired",
+        "Fill the container with your desired stationery"
+      ],
+      "sustainability_note": "The lightweight plastic makes a durable and portable stationery holder that is easy to handle.",
+      "environmental_benefits": [
+        "Reuses a plastic container",
+        "Prevents chemicals from harming the environment",
+        "Promotes responsible consumption",
+        "Creates a useful storage solution"
+      ],
+      "image": null
+    }
+  ]
+}

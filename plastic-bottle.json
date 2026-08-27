@@ -1,0 +1,142 @@
+{
+  "item": "Plastic Bottle",
+  "crafts": [
+    {
+      "name": "Plastic Bird Feeder",
+      "difficulty": "Easy",
+      "time_minutes": 20,
+      "materials": [
+        "Plastic bottle",
+        "String",
+        "Wooden spoon",
+        "Scissors"
+      ],
+      "instructions": [
+        "Wash the bottle and dry it completely",
+        "Cut small holes on the lower part of the bottle",
+        "Insert the wooden spoons through the holes",
+        "Cut out bigger holes above the spoons",
+        "Fill the bottle with birdseed or rice",
+        "Hang the bird feeder outside"
+      ],
+      "sustainability_note": "Plastic is lightweight and waterproof, making it suitable for outdoor use.",
+      "environmental_benefits": [
+        "Reuses one plastic bottle",
+        "Helps reduce plastic waste",
+        "Supports local wildlife"
+      ],
+      "image": null
+    },
+    {
+      "name": "Stationery Holder",
+      "difficulty": "Easy",
+      "time_minutes": 20,
+      "materials": [
+        "Plastic bottle",
+        "Scissors",
+        "Paint and stickers (optional)"
+      ],
+      "instructions": [
+        "Remove stickers from the plastic bottle",
+        "Cut off the bottle's neck, leaving the bottom section",
+        "Paint the lower part of the bottle and add decorative items if desired",
+        "Add stationery and your holder is complete!"
+      ],
+      "sustainability_note": "The plastic is waterproof, protecting stationery, and lightweight, making the holder easy to move.",
+      "environmental_benefits": [
+        "Reuses a plastic bottle",
+        "Reduces the need to buy a stationery holder from a store",
+        "Promotes responsible consumption"
+      ],
+      "image": null
+    },
+    {
+      "name": "Mini Basket",
+      "difficulty": "Easy",
+      "time_minutes": 15,
+      "materials": [
+        "Plastic bottle",
+        "Scissors",
+        "Hot glue gun",
+        "Paint and decorations"
+      ],
+      "instructions": [
+        "Cut the bottom half of the bottle, which will become the body of the basket",
+        "Paint and decorate it with desired colours and designs",
+        "Take the other half of the bottle and cut out a thick strip of plastic",
+        "Paint and decorate the strip",
+        "Hot glue the ends of the strip to the sides of the basket to create a handle",
+        "Add final touches and your basket is complete!"
+      ],
+      "sustainability_note": "The lightweight plastic is portable and durable, making it suitable for a reusable decorative basket.",
+      "environmental_benefits": [
+        "Reuses a plastic bottle",
+        "Prevents harmful chemicals from entering the environment",
+        "Promotes responsible consumption",
+        "Encourages eco-friendly home environments"
+      ],
+      "image": null
+    },
+    {
+      "name": "DIY Hanging Wall Decor",
+      "difficulty": "Medium",
+      "time_minutes": 30,
+      "materials": [
+        "Plastic bottles",
+        "Cord",
+        "Paint",
+        "Scissors"
+      ],
+      "instructions": [
+        "Collect dry plastic bottles and remove the stickers",
+        "Cut the bottles into plastic sheets",
+        "Cut out desired shapes such as flowers, leaves, or stars",
+        "Paint the shapes",
+        "Hot glue them onto the cord",
+        "Hang the decoration on your wall!"
+      ],
+      "sustainability_note": "Multiple plastic bottles are recycled and transformed into a decorative wall hanging.",
+      "environmental_benefits": [
+        "Reuses multiple plastic bottles",
+        "Promotes responsible consumption",
+        "Prevents harmful toxins and chemicals from leaking into the environment",
+        "Encourages eco-friendly practices"
+      ],
+      "image": null
+    },
+    {
+      "name": "Plastic Bottle Plant Pot",
+      "difficulty": "Easy",
+      "time_minutes": 20,
+      "materials": [
+        "Empty plastic bottle",
+        "Scissors",
+        "Marker",
+        "Paint or coloured markers",
+        "String",
+        "Small plant or seeds",
+        "Soil"
+      ],
+      "instructions": [
+        "Make sure the plastic bottle is clean and dry",
+        "Use a marker to draw a line around the bottle about halfway up",
+        "Carefully cut along the line to separate the top and bottom of the bottle",
+        "Keep the bottom half of the bottle, which will become the plant pot",
+        "Carefully poke small holes in the bottom of the bottle to allow extra water to drain",
+        "Decorate the outside of the bottle with paint, markers, or other recycled materials",
+        "Fill the bottle with soil",
+        "Plant a small seed or place a small plant into the soil",
+        "Add a little water and place the plant pot somewhere with enough sunlight",
+        "Watch your plant grow in its new recycled home!"
+      ],
+      "sustainability_note": "Plants need sunlight, water, air, and nutrients from soil to grow. Drainage holes help prevent excess water from damaging plant roots while giving the plastic bottle a new purpose.",
+      "environmental_benefits": [
+        "Reuses a plastic bottle that might otherwise become waste",
+        "Gives an everyday item a useful second life",
+        "Encourages kids to grow plants and care for nature",
+        "Teaches the importance of recycling and responsible consumption"
+      ],
+      "image": null
+    }
+  ]
+}

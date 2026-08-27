@@ -1,0 +1,33 @@
+{
+  "item": "Straws",
+  "crafts": [
+    {
+      "name": "DIY bubble wand",
+      "difficulty": "Medium",
+      "time_minutes": 10,
+      "materials": [
+        "Plastic straws",
+        "Double sided tape",
+        "Scissors",
+        "Long toothpick",
+        "Plastic bottle"
+      ],
+      "instructions": [
+        "Cut the plastic straws into little pieces (not too thin, 1 cm thick each)",
+        "Line them on a strip of double sided tape",
+        "Remove the paper of the tape and roll the straw pieces into a spiral",
+        "Cut out a 2 cm thick circle of a plastic bottle",
+         "Insert the straw spiral into the plastic bottle",
+         "Poke a hole in the plastic circle and insert the long toothpick through that hole",
+        "Dip into a bubble solution and enjoy!"
+      ],
+      "sustainability_note": "The plastic straws are reused into a fun and easy DIY bubble wand",
+      "environmental_benefits": [
+        "Reuses plastic straws",
+        "Prevents harmful chemicals from seeping into the environment",
+        "Promotes recycling among kids"
+      ],
+      "image": null
+    }
+  ]
+}

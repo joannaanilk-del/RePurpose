@@ -1,0 +1,112 @@
+{
+  "craft_items": [
+    {
+      "item": "Soda Can",
+      "crafts": [
+        {
+          "name": "Night Light",
+          "difficulty": "Easy",
+          "time_minutes": 15,
+          "materials": [
+            "Soda Can",
+            "Thumb Tack / Needle",
+            "Fake candle/light string",
+            "Scissors"
+          ],
+          "instructions": [
+            "Take a drawing or design and place it against the can",
+            "Poke holes in the can tracing the outline",
+            "You now have a design on the can",
+            "Carefully place the string lights through the sipping hole, leaving the switch out",
+            "Turn off the lights and see your design come to life!"
+          ],
+          "sustainability_note": "The soda can doubles as a cute night light with a chic design, preventing waste and extending the life of the material.",
+          "environmental_benefits": [
+            "Reuses an empty soda can",
+            "Promotes responsible consumption",
+            "The can is durable and lightweight, making it perfect for a portable night light"
+          ],
+          "image": null
+        },
+        {
+          "name": "DIY Pin",
+          "difficulty": "Easy",
+          "time_minutes": 10,
+          "materials": [
+            "Soda Can",
+            "Scissors",
+            "Clear nail polish",
+            "Safety pin",
+            "Paint/design printout"
+          ],
+          "instructions": [
+            "Cut the bottom of a soda can and remove all sharp aluminum bits, leaving the hard bottom to be used as a pin",
+            "Sand down the bottom",
+            "Paint desired colours or attach a printout design onto it",
+            "Hot glue the ends of a safety pin to the plain side",
+            "Apply a coat of clear nail polish to prevent the design from fading",
+            "You now have a pin!"
+          ],
+          "sustainability_note": "Reusing soda cans for fashion accessories promotes recycling in the fashion industry. The sturdy base and durable material make the pin long-lasting.",
+          "environmental_benefits": [
+            "Reuses an empty soda can",
+            "Prevents waste from entering landfills and harming the environment",
+            "Promotes responsible consumption"
+          ],
+          "image": null
+        },
+        {
+          "name": "Soda Can Wall Decor",
+          "difficulty": "Easy",
+          "time_minutes": 15,
+          "materials": [
+            "Soda cans",
+            "Paint (optional)",
+            "Hot glue gun",
+            "Double-sided tape"
+          ],
+          "instructions": [
+            "Decide on a shape such as a heart or star, preferably one with parallel sides",
+            "Choose the number of cans needed depending on the desired size: 4-5 for small, 8-10 for medium, and 15-19 for large designs",
+            "Hot glue the cans together to form the shape",
+            "Paint the wall decor if desired",
+            "Hang it on the wall using double-sided tape",
+            "You now have a stylish room decoration!"
+          ],
+          "sustainability_note": "Multiple soda cans can be reused at once. Their lightweight material makes the decoration easy to move and reposition.",
+          "environmental_benefits": [
+            "Reuses multiple soda cans",
+            "Prevents accumulation in landfills and reduces environmental damage",
+            "Promotes responsible consumption"
+          ],
+          "image": null
+        },
+        {
+          "name": "Soda Tab Bracelet",
+          "difficulty": "Easy",
+          "time_minutes": 15,
+          "materials": [
+            "Soda can tabs",
+            "Pliers/Strong scissors",
+            "Paint"
+          ],
+          "instructions": [
+            "Paint the soda can tabs if desired",
+            "Use pliers or strong scissors to cut a line through the thin side of the tab",
+            "Insert another soda tab through the line, then cut a line through that one",
+            "Repeat until you create a bracelet that fits you",
+            "Your bracelet is complete!"
+          ],
+          "sustainability_note": "Soda tabs are transformed into an eye-catching accessory instead of being thrown away.",
+          "environmental_benefits": [
+            "Reuses soda tabs",
+            "Cost-effective",
+            "Promotes recycling",
+            "Encourages responsible consumption"
+          ],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

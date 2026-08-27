@@ -1,0 +1,67 @@
+{
+  "item": "Plastic Bag",
+  "crafts": [
+    {
+      "name": "Mini Parachute",
+      "difficulty": "Medium",
+      "time_minutes": 20,
+      "materials": [
+        "Plastic Bag",
+        "Scissors",
+        "Thread",
+        "Pen cap"
+      ],
+      "instructions": [
+        "Cut off the handles and bottom of the plastic bag, leaving two flat sheets of plastic",
+        "Take one sheet and fold it into a triangle. Repeat this folding process three times",
+        "Cut the top of the folded triangle into a curved shape. When unfolded, the plastic should have a rounded parachute-like shape",
+        "Carefully poke a small hole near the top of each corner",
+        "Unfold the plastic sheet",
+        "Cut several pieces of thread to the same length and thread them through the holes",
+        "Tie the ends of the threads together around a pen cap or another small object with a similar weight",
+        "Your craft should now look like a mini parachute!",
+        "Loosely wrap the pen cap in the plastic parachute. Toss it gently into the air and watch it slowly float down like a real parachute!"
+      ],
+      "sustainability_note": "The lightweight plastic sheet catches air as it falls, slowing the parachute down and allowing it to gently float toward the ground.",
+      "environmental_benefits": [
+        "Reuses a plastic bag that might otherwise end up in a landfill",
+        "Shows younger kids how everyday materials can be reused",
+        "Encourages recycling and creative reuse",
+        "Promotes responsible consumption by giving old materials a new purpose"
+      ],
+      "image": null
+    },
+    {
+      "name": "Plastic Bag Wind Spinner",
+      "difficulty": "Easy",
+      "time_minutes": 20,
+      "materials": [
+        "Plastic Bag",
+        "Scissors",
+        "Thread or string",
+        "Marker",
+        "Tape",
+        "Small stick, straw, or pencil"
+      ],
+      "instructions": [
+        "Cut off the handles and bottom of the plastic bag so that you have a flat sheet of plastic",
+        "Cut the plastic into a large square",
+        "Use a marker to draw colorful patterns, lines, or shapes on the plastic",
+        "Cut the square into long, thin strips, leaving a small section in the middle uncut so the strips stay connected",
+        "Carefully twist or curl the strips so they can move and spin in the air",
+        "Attach a piece of string to the center of the wind spinner using tape",
+        "Tie the other end of the string to a small stick, straw, or pencil",
+        "Take your wind spinner outside and hold it up in a gentle breeze",
+        "Watch as the plastic strips move and spin in the wind!"
+      ],
+      "sustainability_note": "Moving air pushes against the lightweight plastic strips, causing them to twist, move, and spin. This demonstrates how wind energy can make objects move.",
+      "environmental_benefits": [
+        "Reuses a plastic bag that might otherwise end up in a landfill",
+        "Gives old plastic a new purpose instead of throwing it away",
+        "Encourages younger kids to think creatively about recycling and reuse",
+        "Promotes responsible consumption by showing that everyday materials can become something fun and useful"
+      ],
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "item": "Popsicle sticks",
+  "crafts": [
+    {
+      "name": "Wall decor sign",
+      "difficulty": "Easy",
+      "time_minutes": 20,
+      "materials": [
+        "Popsicle sticks",
+        "Hot Glue Gun",
+        "Double sided tape",
+        "Paint"
+      ],
+      "instructions": [
+        "Hot glue the long sides of the popsicle sticks together, to get a sheet that looks like a sign",
+        "Paint and design the sheet",
+        "Use double sided tape to stick the sheet to the wall",
+        "You now have a pretty poster in your room!"
+      ],
+      "sustainability_note":"Reuses a lot of popsicle sticks to create a unique poster",
+      "environmental_benefits": [
+        "Reuses lots of popsicle sticks",
+        "Prevents accumulation in landfills",
+        "Promotes recycling and responsible consumption"
+      ],
+      "image": null
+    },
+    {
+      "name": "DIY wall design",
+      "difficulty": "Easy",
+      "time_minutes": 15,
+      "materials": [
+        "Popsicle sticks ",
+        "Hot glue gun",
+        "Paint",
+        "Double sided tape",
+        "Outline of design (optional)"
+      ],
+      "instructions": [
+        "Place your outline of the design down",
+        "Place popsicle sticks according to the design and hot glue in place",
+        "Paint the design",
+        "Use double sided tape to stick to the wall and done!"
+      ],
+      "sustainability_note": "The popsicle sticks are recyled into a lightweight and portable wall decor.",
+      "environmental_benefits": [
+        "Reuses popsicle sticks",
+        "Prevents accumulation in landfills",
+        "Promotes responsible consumption"
+      ],
+      "image": null
+    }]}
+   

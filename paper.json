@@ -1,0 +1,137 @@
+{
+  "item": "Paper",
+  "crafts": [
+    {
+      "name": "Paper Lantern",
+      "difficulty": "Hard",
+      "time_minutes": 40,
+      "materials": [
+        "Sheets of paper",
+        "Balloon",
+        "Glue",
+        "Fake lights",
+        "Bowl + paintbrush",
+        "Eyeshadow/Paint"
+      ],
+      "instructions": [
+        "Inflate a balloon to the desired size",
+        "Tear the paper into medium-sized pieces",
+        "Make a mixture using 1-2 spoons of glue and a cup of water. Add more glue if needed",
+        "Gently dip a piece of paper into the mixture, then paste it onto the balloon",
+        "Repeat until the entire surface of the balloon is covered, leaving a small area around the knot. Add 2-3 layers of paper, then leave it to dry",
+        "Carefully pop the balloon and remove it from the paper cover once dry",
+        "Gently paint the lantern with eyeshadow or colours",
+        "Place fake lights inside the lantern and display it wherever you like!"
+      ],
+      "sustainability_note": "Paper is reused and transformed into a lightweight and decorative lantern instead of being discarded.",
+      "environmental_benefits": [
+        "Reuses sheets of paper and prevents environmental contamination",
+        "Promotes responsible consumption"
+      ],
+      "image": null
+    },
+    {
+      "name": "Homemade Paper",
+      "difficulty": "Hard",
+      "time_minutes": 4320,
+      "materials": [
+        "Paper scraps",
+        "Paper making frame"
+      ],
+      "instructions": [
+        "Tear the paper scraps into small pieces",
+        "Place them in a container, pour a cup of water over them, and leave overnight to soften",
+        "Blend the soaked paper to create paper pulp",
+        "Take a small amount of pulp, place it into a bucket of water, and mix",
+        "Shake the paper-making frame in the pulp water to collect the loose pulp",
+        "Gently empty the frame onto a surface in the sun and leave it to dry for 5-8 hours",
+        "Peel off your homemade paper from the surface and your paper is complete!"
+      ],
+      "sustainability_note": "Paper scraps are given a second life by being transformed into new sheets of paper.",
+      "environmental_benefits": [
+        "Reuses large amounts of paper scraps",
+        "Promotes responsible consumption and production",
+        "Encourages recycling in daily activities",
+        "Cost-effective"
+      ],
+      "image": null
+    },
+    {
+      "name": "Paper Mache Clay",
+      "difficulty": "Hard",
+      "time_minutes": 40,
+      "materials": [
+        "Paper shreds",
+        "Glue",
+        "Water"
+      ],
+      "instructions": [
+        "Add the paper shreds to a container",
+        "Fill the container with enough water to cover the paper",
+        "Mix and knead until the paper becomes a mash",
+        "Pour white glue into the paper mash",
+        "Alternate between adding more paper and glue while kneading until you reach a moldable mixture",
+        "You now have paper mache clay that can be used to create anything you want!"
+      ],
+      "sustainability_note": "Paper is upcycled into a creative and reusable material for making different crafts.",
+      "environmental_benefits": [
+        "Reuses large amounts of paper",
+        "Encourages upcycling",
+        "Creates a fun and creative activity"
+      ],
+      "image": null
+    },
+    {
+      "name": "Wall Decor",
+      "difficulty": "Medium",
+      "time_minutes": 30,
+      "materials": [
+        "Newspaper",
+        "Hot glue gun",
+        "Paint",
+        "Outline of a design (optional)"
+      ],
+      "instructions": [
+        "Roll the paper into thin straws",
+        "Place the paper straws on the design outline",
+        "Hot glue the paper straws together to form the design",
+        "Paint and decorate the design",
+        "Stick it onto the wall and your decoration is complete!"
+      ],
+      "sustainability_note": "Newspaper is recycled into an easy DIY wall decoration instead of being thrown away.",
+      "environmental_benefits": [
+        "Reuses newspapers",
+        "Promotes responsible consumption",
+        "Creates a DIY project that helps the environment",
+        "Cost-effective"
+      ],
+      "image": null
+    },
+    {
+      "name": "Hanging Wall Decor",
+      "difficulty": "Easy",
+      "time_minutes": 15,
+      "materials": [
+        "Paper",
+        "String",
+        "Tape",
+        "Scissors"
+      ],
+      "instructions": [
+        "Use paper to cut out desired shapes",
+        "Arrange the shapes into a line",
+        "Tape the pieces onto a string",
+        "Repeat for the desired number of garlands",
+        "Hang them up wherever you would like!"
+      ],
+      "sustainability_note": "Paper is reused to create a fun and eye-catching DIY decoration.",
+      "environmental_benefits": [
+        "Reuses paper",
+        "Promotes recycling in households",
+        "Creates a DIY project that benefits the environment",
+        "Prevents accumulation in landfills"
+      ],
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "item": "Glass Jar",
+  "crafts": [
+    {
+      "name": "Pencil Holder",
+      "difficulty": "Easy",
+      "time_minutes": 20,
+      "materials": [
+        "Glass Jar",
+        "Paint",
+        "Ribbons/stickers/gems (optional)"
+      ],
+      "instructions": [
+        "Remove stickers from the jar by scraping them off or using hot water",
+        "Dry the jar",
+        "Paint the jar with desired patterns and designs",
+        "Decorate with ribbons, stickers, or gems if desired",
+        "Put stationery inside and your pencil holder is complete!"
+      ],
+      "sustainability_note": "The glass jar is suitable for a holder because it is durable, transparent, and easy to clean.",
+      "environmental_benefits": [
+        "Reuses a glass jar",
+        "Reduces the need to buy mass-produced plastic desk organizers",
+        "Creates a functional storage solution"
+      ],
+      "image": null
+    },
+    {
+      "name": "Plant Pot",
+      "difficulty": "Medium",
+      "time_minutes": 40,
+      "materials": [
+        "Glass Jar",
+        "Soil",
+        "Seeds/small plant",
+        "Water",
+        "Paint and decorations (optional)",
+        "Small pebbles",
+        "Activated charcoal"
+      ],
+      "instructions": [
+        "Remove stickers from the jar by scraping them off or using hot water",
+        "Clean and dry the jar to remove any residue",
+        "Paint the outside of the jar and add decorations if desired",
+        "Place small pebbles at the bottom of the jar for drainage",
+        "Place a small amount of activated charcoal over the pebbles",
+        "Pour a thick layer of soil over the pebbles and charcoal",
+        "Plant a seed into the soil or place a small plant into the soil",
+        "Water the plant regularly"
+      ],
+      "sustainability_note": "The sturdy glass jar provides a reusable home for plant growth and supports indoor gardening.",
+      "environmental_benefits": [
+        "Reuses a glass jar",
+        "Encourages gardening",
+        "Creates a small indoor air-purifying plant space"
+      ],
+      "image": null
+    },
+    {
+      "name": "Night Light",
+      "difficulty": "Easy",
+      "time_minutes": 15,
+      "materials": [
+        "Glass Jar",
+        "String lights",
+        "Paint"
+      ],
+      "instructions": [
+        "Remove stickers from the jar by scraping them off or using hot water",
+        "Paint and decorate the jar, leaving a space in the middle for the light to shine through",
+        "Place string lights inside the jar",
+        "Enjoy your new night light!"
+      ],
+      "sustainability_note": "The glass jar is upcycled into a long-lasting reusable night light.",
+      "environmental_benefits": [
+        "Reuses a glass jar",
+        "Creates an eco-friendly night light",
+        "Prevents waste accumulation in landfills"
+      ],
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "item": "Toilet Paper Roll",
+  "crafts": [
+    {
+      "name": "DIY Party Popper",
+      "difficulty": "Easy",
+      "time_minutes": 10,
+      "materials": [
+        "Toilet paper roll",
+        "Balloon",
+        "Decoration paper",
+        "Paper confetti",
+        "Tape"
+      ],
+      "instructions": [
+        "Cut off the top of the balloon",
+        "Tie a knot on the bottom of the balloon",
+        "Pull the balloon onto the end of the toilet paper roll, with the knot facing out",
+        "Tape the balloon in place",
+        "Decorate the roll",
+        "Pour confetti inside the popper",
+        "Pull back the the knot and release! Perfect for parties"
+      ],
+      "sustainibility_note": "Reuses a toilet paper roll for a fun craft that’s easy to make and enjoy!",
+      "environmental_benefits": [
+        "Reuses a toilet paper roll",
+        "Saves material by upcycling",
+        "Encourages recycling among kids"
+      ],
+      "image": null
+    }
+  ]
+}

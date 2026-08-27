@@ -1,0 +1,62 @@
+{
+  "item": "Pizza Box",
+  "crafts": [
+    {
+      "name": "Décor Tray",
+      "difficulty": "Medium",
+      "time_minutes": 30,
+      "materials": [
+        "Pizza Box",
+        "Wrapping Paper",
+        "Glue",
+        "Scissors"
+      ],
+      "instructions": [
+        "Cut the pizza box in half",
+        "Take one half of the pizza box and cut off all the flaps",
+        "Take the other half of the pizza box and glue the sides, this will be the base box",
+        "Cover the first half with wrapping paper using double sided tape",
+        "Cover the second half with wrapping paper as well",
+        "Glue the first half into the base box",
+        "Fill with décor items and done!"
+      ],
+      "sustainibility_note": "The hard cardboard makes the tray durable and functional.",
+      "environmental_benefits": [
+        "Reuses a pizza box",
+        "Prevents release into landfills that could release toxic methane gases"
+      ],
+      "image": null
+    },
+    {
+      "name": "Wall Hanging Décor",
+      "difficulty": "Easy",
+      "time_minutes": 20,
+      "materials": [
+        "Pizza Box",
+        "Paint",
+        "Toilet paper rolls",
+        "Hot glue gun",
+        "String"
+      ],
+      "instructions": [
+        "Open up the pizza box completely",
+        "Draw shapes and designs that you want",
+        "Cut out the shapes and paint them",
+        "Hot glue 2-8 toilet paper rolls together lengthwise depending on how long you want the wall hanging to be",
+        "Hot glue the shapes to the string, the number of strings depending on how many rows of shapes and designs you want",
+        "Hot glue the strings to the toilet paper rolls row",
+        "Add final touches and done! Hang it up!"
+      ],
+      "sustainibility_note": "The pizza box is reused to make a lightweight and portable wall décor!",
+      "environmental_benefits": [
+        "Reuses a pizza box",
+        "Reuses toilet paper rolls",
+        "Prevents accumulation in landfills and damage to environment",
+        "Promotes responsible consumption"
+      ],
+      "image": null
+    }
+  ]
+}
+
+  

@@ -1,0 +1,33 @@
+{
+  "item": "CD",
+  "crafts": [
+    {
+      "name": "CD Wall Decor",
+      "difficulty": "Easy",
+      "time_minutes": 30,
+      "materials": [
+        "Old CD",
+        "Paint or markers",
+        "Paint and decorations",
+        "Ribbion or string",
+        "Glue"
+      ],
+      "instructions": [
+        "Clean the old CD and make sure it is dry",
+        "Paint or decorate the CD with your chosen design",
+        "Glue beads, stickers, glitter or other decorations onto the CD",
+        "Let the paint and glue dry completely",
+         "Tie a piece of ribbion or string through the CD's center hole",
+         "Hang your decorated CD on a wall as a colourful piece of wall decor"
+      ],
+      "sustainability_note": "The old CD is repurposed into a decorative item, giving it a new use instead of being thrown away",
+      "environmental_benefits": [
+        "Reuses an old CD",
+        "Reduces electronic/plastic waste",
+        "Saves materials by upcycling",
+        "Creates an eco-friendly wall decoration"
+      ],
+      "image": null
+    }
+  ]
+}

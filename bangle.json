@@ -1,0 +1,31 @@
+{
+  "item": "Bangles",
+  "crafts": [
+    {
+      "name": "Bangle Jar",
+      "difficulty": "Easy",
+      "time_minutes": 20,
+      "materials": [
+        "4-6 same size thick bangles",
+        "Hot Glue Gun",
+        "Paint and decorations",
+        "Cardboard"
+      ],
+      "instructions": [
+        "Trace a bangle on a piece of cardboard and cut out, repeat for one more piece",
+        "Hot glue the bangles together as a stack, the height of the stack depends on how tall you want the jar to be",
+        "Hot glue one cardboard circle to the bottom of the stack, this will be the floor of the jar",
+        "Paint the jar and decorate (optional)",
+         "Paint the other cut out to use as the lid(the lid is optional)",
+         "Fill with desired items"
+      ],
+      "sustainability_note": "The bangles make for a sturdy and durable material, making the jar perfect for long term use.",
+      "environmental_benefits": [
+        "Reuses old bangles",
+        "Prevents harmful chemicals from leaking into the enviornment",
+        "Promotes responsible and sustainible consumption"
+      ],
+      "image": null
+    }
+  ]
+}

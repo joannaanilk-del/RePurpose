@@ -1,0 +1,77 @@
+{
+  "item": "Tin Can",
+  "crafts": [
+    {
+      "name": "Plant Pot",
+      "difficulty": "Medium",
+      "time_minutes": 30,
+      "materials": [
+        "Tin Can",
+        "Soil",
+        "Plant/seed",
+        "Pebbles",
+        "Paint and decorative items (optional)"
+      ],
+      "instructions": [
+        "Use scissors to carefully cut open the lid of the can",
+        "Paint and decorate the can if desired",
+        "Pour a thin layer of pebbles into the bottom of the can for drainage",
+        "Pour a thick layer of soil into the can",
+        "Place your seed or plant into the soil",
+        "Water the plant regularly"
+      ],
+      "sustainability_note": "The tin can is repurposed into a durable and stylish plant pot.",
+      "environmental_benefits": [
+        "Reuses a tin can",
+        "Supports gardening",
+        "Creates a small indoor air-purifying plant space"
+      ],
+      "image": null
+    },
+    {
+      "name": "Stationery Holder",
+      "difficulty": "Easy",
+      "time_minutes": 15,
+      "materials": [
+        "Tin Can",
+        "Scissors",
+        "Paint and decorations"
+      ],
+      "instructions": [
+        "Carefully cut the lid off the can",
+        "Paint the outside of the can and decorate it",
+        "Place your stationery inside"
+      ],
+      "sustainability_note": "The sturdy tin can becomes an easy-to-use portable stationery holder while providing a stylish storage solution.",
+      "environmental_benefits": [
+        "Reuses a tin can",
+        "Prevents accumulation in landfills and reduces environmental harm",
+        "Promotes responsible consumption"
+      ],
+      "image": null
+    },
+    {
+      "name": "Storage Container",
+      "difficulty": "Easy",
+      "time_minutes": 10,
+      "materials": [
+        "Tin Can (preferably one with a lid)",
+        "Paint and decorations"
+      ],
+      "instructions": [
+        "Wash and dry the can to remove any residue",
+        "Remove stickers from the can",
+        "Paint the outside of the can",
+        "Fill it with desired items such as candy, coffee beans, or other small objects"
+      ],
+      "sustainability_note": "The tin can is repurposed into a durable reusable storage container.",
+      "environmental_benefits": [
+        "Reuses a tin can",
+        "Encourages responsible consumption",
+        "Creates a DIY project that benefits the environment",
+        "Prevents accumulation in landfills"
+      ],
+      "image": null
+    }
+  ]
+}

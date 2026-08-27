@@ -1,0 +1,124 @@
+{
+  "item": "Cardboard",
+  "crafts": [
+    {
+      "name": "Wall Hanging Decor",
+      "difficulty": "Easy",
+      "time_minutes": 20,
+      "materials": [
+        "Cardboard",
+        "Paint",
+        "Toilet paper rolls",
+        "Hot glue gun",
+        "String"
+      ],
+      "instructions": [
+        "Lay out the cardboard",
+        "Draw desired shapes and designs on the cardboard",
+        "Cut out the shapes and paint them",
+        "Hot glue 2-8 toilet paper rolls together lengthwise depending on the desired length of the wall hanging",
+        "Hot glue the shapes to the strings, with the number of strings depending on how many rows of shapes and designs you want",
+        "Hot glue the strings to the row of toilet paper rolls",
+        "Add final touches and hang it up!"
+      ],
+      "sustainability_note": "Cardboard and toilet paper rolls are reused and transformed into a decorative wall hanging.",
+      "environmental_benefits": [
+        "Reuses cardboard",
+        "Reuses toilet paper rolls",
+        "Prevents accumulation in landfills and reduces environmental damage",
+        "Promotes responsible consumption"
+      ],
+      "image": null
+    },
+    {
+      "name": "Cardboard Flower Decor",
+      "difficulty": "Easy",
+      "time_minutes": 25,
+      "materials": [
+        "Cardboard",
+        "Paint",
+        "Scissors",
+        "Hot glue gun",
+        "String",
+        "Pencil"
+      ],
+      "instructions": [
+        "Lay out the cardboard on a flat surface",
+        "Draw different flower shapes and leaves on the cardboard",
+        "Carefully cut out the flowers and leaves",
+        "Paint the cardboard pieces in desired colours and let them dry",
+        "Arrange the flowers and leaves into a design you like",
+        "Hot glue the pieces together to create the flowers",
+        "Attach pieces of string to the flowers so they can be hung up",
+        "Add final details or designs, then hang up your cardboard flower decor!"
+      ],
+      "sustainability_note": "Cardboard is recycled into a beautiful decorative garland instead of being discarded.",
+      "environmental_benefits": [
+        "Reuses old cardboard",
+        "Reduces the amount of cardboard sent to landfills",
+        "Gives waste materials a new purpose",
+        "Promotes creativity and responsible consumption",
+        "Helps reduce the need for new craft materials"
+      ],
+      "image": null
+    },
+    {
+      "name": "DIY Photo Frame",
+      "difficulty": "Easy",
+      "time_minutes": 15,
+      "materials": [
+        "Cardboard",
+        "Popsicle sticks",
+        "Hot glue gun",
+        "Scissors",
+        "Paint and decorations"
+      ],
+      "instructions": [
+        "Cut out a rectangle frame from the cardboard",
+        "Stick 3 popsicle sticks on their respective sides, leaving one side open as a gap to insert the photo",
+        "Hot glue a rectangle cardboard sheet to the back of the sticks",
+        "Design and paint the frame and base",
+        "Insert your photo and display your handmade photo frame"
+      ],
+      "sustainability_note": "Cardboard and popsicle sticks are recycled into a lightweight DIY photo frame.",
+      "environmental_benefits": [
+        "Reuses cardboard and popsicle sticks",
+        "Prevents accumulation in landfills",
+        "Gives waste materials a new purpose",
+        "Promotes responsible consumption",
+        "Reduces the need for new craft materials"
+      ],
+      "image": null
+    },
+    {
+      "name": "Stained Glass Decor",
+      "difficulty": "Medium",
+      "time_minutes": 30,
+      "materials": [
+        "Cardboard sheet",
+        "Tin foil",
+        "Hot glue gun",
+        "Markers/Paint",
+        "Double-sided tape"
+      ],
+      "instructions": [
+        "Place the cardboard sheet on a flat surface",
+        "Cut out the desired shape",
+        "Draw your design on the cardboard using a marker",
+        "Trace the design with a hot glue gun",
+        "Cut the same shape out of the foil",
+        "Press the foil into the cardboard, pressing around the glue to reveal the design",
+        "Paint the spaces with paint or markers",
+        "Hang it up using double-sided tape"
+      ],
+      "sustainability_note": "Cardboard is reused and transformed into a decorative stained glass-style craft.",
+      "environmental_benefits": [
+        "Reuses cardboard",
+        "Prevents accumulation in landfills",
+        "Promotes responsible consumption",
+        "Creates a DIY project that benefits the environment"
+      ],
+      "image": null
+    }
+  ]
+}

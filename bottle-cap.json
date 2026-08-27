@@ -1,0 +1,29 @@
+{
+  "item": "Bottle Cap",
+  "crafts": [
+    {
+      "name": "DIY Pin",
+      "difficulty": "Easy",
+      "time_minutes": 10,
+      "materials": [
+        "Bottle cap",
+        "Safety Pin",
+        "Paint/stickers/cut outs/ribbions"
+      ],
+      "instructions": [
+        "Clean and dry bottle cap",
+        "Insert the safety pin through the sides of the cap",
+        "Decorate and paint the surface of the cap",
+        "Put the pin wherever you like!"
+      ],
+      "sustainibility_note": "The plastic cap makes for a lightweight and durable pin that doesn’t detoriate the surface it is pinned to.",
+      "environmental_benefits": [
+        "Reuses a bottle cap",
+        "Prevents harmful toxins from leaking out into the environment",
+        "Promotes responsible consumption",
+        "Encourages recycling amoung younger kids"
+      ],
+      "image": null
+    }
+  ]
+}
