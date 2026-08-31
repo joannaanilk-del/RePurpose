@@ -15,3 +15,6 @@ button {
 h2 {
     font-size: 30 px;
 }
+button:hover {
+    transform: scale(1.05);
+}
