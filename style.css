@@ -4,3 +4,11 @@ body {
 h1 {
    font-size: 60px;
 }
+button {
+    background-color: #3f6dcc;
+    color: white;
+    font-size: 25px;
+    padding: 15px 35px;
+    border: none;
+    border-radius: 10px;
+}
