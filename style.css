@@ -4,7 +4,7 @@ body {
 h1 {
    font-size: 60px;
 }
-button {
+.start-button {
     background-color: #3f6dcc;
     color: white;
     font-size: 25px;
@@ -15,10 +15,9 @@ button {
 h2 {
     font-size: 30 px;
 }
-button:hover {
+.start-button:hover {
     transform: scale(1.05);
 }
-
 h2 { 
     margin-top: 50px:
  }
