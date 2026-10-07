@@ -15,6 +15,7 @@ h1 {
 }
 h2 {
     font-size: 30 px;
+    margin-top: 50 px;
 }
 .start-button:hover {
     transform: scale(1.05);
