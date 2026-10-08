@@ -2,7 +2,7 @@ body {
     background-color: lightpink;
 }
 h1 {
-   font-size: 60px;
+   font-size: 80px;
 }
 .start-button {
     background-color: #3f6dcc;
@@ -14,7 +14,7 @@ h1 {
     display: inline-block;
 }
 h2 {
-    font-size: 30px;
+    font-size: 40px;
     margin-top: 50px;
 }
 .start-button:hover {
@@ -26,6 +26,6 @@ h2 {
 
 .home {
     text-align: center;
-    margin-top: 180px;
+    margin-top: 190px;
 }    
 
