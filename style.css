@@ -64,7 +64,7 @@ a {
 .item-buttons {
     display: flex;
     flex-wrap: wrap;
-    gap: 15px;
+    gap: 25px;
 }
 
 
