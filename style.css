@@ -73,3 +73,7 @@ a {
     padding: 20px 30px;
 }
 
+.craft-title {
+    font-size: 50px;
+    text-align: center;    
+}
