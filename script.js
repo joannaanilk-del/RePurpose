@@ -1,5 +1,8 @@
 document.querySelectorAll("button[data-file]").forEach(function(button) {
     button.addEventListener("click", function() {
-        alert(button.dataset.file);
+        fetch(button.dataset.file)
+    .then(response => response.json())
+    .then(data => {
+        console.log(data);
     });
-});
+
