@@ -4,9 +4,21 @@ document.querySelectorAll("button[data-file]").forEach(function(button) {
         fetch(button.dataset.file)
             .then(response => response.json())
             .then(data => {
-                console.log(data);
-            });
+    const results = document.getElementById("craft-results");
+    results.innerHTML = "";
+
+    data.crafts.forEach(function(craft) {
+        const craftCard = document.createElement("div");
+        craftCard.innerHTML = `
+            <h2>${craft.name}</h2>
+            <p>Difficulty: ${craft.difficulty}</p>
+            <p>Time: ${craft.time_minutes} minutes</p>
+        `;
+        results.appendChild(craftCard);
     });
 });
+            });
+    });
+
 
 
